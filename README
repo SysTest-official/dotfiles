@@ -1,0 +1,15 @@
+# Dotfiles
+
+My Debian 13 multi-machine setup.
+
+## Machines
+- Dev PC (GNOME)
+- Laptop (LXQt)
+- Base system
+
+## Install
+
+```bash
+git clone https://github.com/YOURNAME/dotfiles.git
+cd dotfiles
+bash bootstrap.sh
