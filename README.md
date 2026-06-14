@@ -9,6 +9,9 @@ This repo is designed to be **modular and idempotent**:
 
 You can safely re-run scripts without breaking the system.
 
+Each script installs a full desktop + toolchain environment.
+You can run any script on any machine depending on your preference.
+
 **READ THE OUTPUTS OF THE SCRIPTS, they will tell you further steps**
 
 ---
