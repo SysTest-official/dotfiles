@@ -1,0 +1,12 @@
+[user]
+  name = YourName
+  email = you@example.com
+
+[core]
+  editor = nvim
+
+[init]
+  defaultBranch = main
+
+[diff]
+  tool = vimdiff
