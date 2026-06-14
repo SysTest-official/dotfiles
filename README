@@ -1,7 +1,5 @@
 # Dotfiles
 
-My Debian 13 multi-machine setup.
-
 ## Machines
 - Dev PC (GNOME)
 - Laptop (LXQt)
@@ -10,6 +8,11 @@ My Debian 13 multi-machine setup.
 ## Install
 
 ```bash
-git clone https://github.com/YOURNAME/dotfiles.git
+git clone https://github.com/SysTest-official/dotfiles.git
 cd dotfiles
 bash bootstrap.sh
+```
+Then run:
+- base/install_base.sh
+- laptop/install_laptop.sh
+- dev/install_dev.sh
