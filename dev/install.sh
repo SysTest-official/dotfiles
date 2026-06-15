@@ -13,5 +13,3 @@ sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flat
 ln -sf "$DOTFILES/shell/zshrc" "$HOME/.zshrc"
 ln -sf "$DOTFILES/git/gitconfig" "$HOME/.gitconfig"
 ln -sf "$DOTFILES/nvim" "$HOME/.config/nvim"
-
-echo "DaVinci Resolve must be installed manually from Blackmagic."
