@@ -11,6 +11,6 @@ else
 fi
 
 echo "Dotfiles ready. Run one of:"
-echo "base/install_base.sh"
-echo "dev/install_dev.sh"
-echo "laptop/install_laptop.sh"
+echo "bash base/install.sh"
+echo "bash dev/install.sh"
+echo "bash laptop/install.sh"
