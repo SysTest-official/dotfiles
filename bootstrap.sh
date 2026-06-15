@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO_URL="https://github.com/YOURNAME/dotfiles.git"
+REPO_URL="https://github.com/SysTest-official/dotfiles.git"
 DIR="$HOME/dotfiles"
 
 if [ ! -d "$DIR" ]; then
